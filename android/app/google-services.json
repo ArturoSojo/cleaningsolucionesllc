@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684045050127",
+    "project_id": "cleaningsolucionesllc-88eb3",
+    "storage_bucket": "cleaningsolucionesllc-88eb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684045050127:android:3b05cc7d700a531aac9e7a",
+        "android_client_info": {
+          "package_name": "com.cleaningsoluciones.cleaning_soluciones_llc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684045050127-q1abiscmmlhp546pq4u8hdqdv4l16mt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ9zzbl1DK2aSjrTQaXrBB7_mT5CXa3uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684045050127-q1abiscmmlhp546pq4u8hdqdv4l16mt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
